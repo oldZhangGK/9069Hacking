@@ -122,7 +122,7 @@ You need to enable the target before attack
     lure get-url 0
 ```
 
-####Sixth step, waiting for the fish.
+#### Sixth step, waiting for the fish.
 The Evilginx will bring all information the user had inteacts with the website, including its username and password and its 2FA code. Not only it, as long as the user did not find out the DNS is wrong, we pretty much can monitor what has he done in this website.
 
 ## Summary:
